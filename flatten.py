@@ -1,0 +1,1 @@
+def flatten(d): return d
